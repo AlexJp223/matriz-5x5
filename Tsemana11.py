@@ -1,3 +1,7 @@
+#Nombre: Joel Alexander Zavala Pachay 
+#fecha: 30/08/2026
+
+
 matriz = [[0 for _ in range(5)] for _ in range(5)]
  
 for i in range(5):
